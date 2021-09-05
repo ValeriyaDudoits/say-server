@@ -1,0 +1,14 @@
+{
+  "name": "say",
+  "version": "1.0.0",
+  "description": "Social network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "VDudoits",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
